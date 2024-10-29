@@ -1,0 +1,1 @@
+this todo app is purely base in REACT with local storage
